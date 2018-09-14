@@ -81,6 +81,7 @@ from find_nearest import find_near
 Ba_a=[80.9979,276.3989,302.8508, 356.0129,383.8485] #Bactual intensities of Ba133
 Ba_e=[] #expected intensities of Ba133
 percent_diff=[]
+table=[]
 dE=10
 
 #this loop finds the max energy in the range around each Ba_a value (or the centroid)
