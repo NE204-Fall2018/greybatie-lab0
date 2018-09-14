@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 f=open('../lab0_spectral_data.txt', "r")
 lines=f.readlines()[1:]
 
