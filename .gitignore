@@ -17,3 +17,7 @@ test/.pytest_cache/*
 
 # Python cruft
 *.pyc
+
+# Ignore analysis results
+images/cal_AmCs.png
+images/rawdata.png
