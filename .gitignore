@@ -9,6 +9,9 @@
 lab0_spectral_data.*
 lab0_hash*
 
+# Testing cruft
+test/.pytest_cache/*
+
 # Editor cruft
 *.swp
 
